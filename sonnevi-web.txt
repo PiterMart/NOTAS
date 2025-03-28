@@ -1,0 +1,40 @@
+SONNEVI WEB
+>Pedir mail para nodemailer
+	>Asset de logo para el contactFORM
+	>fomateo de front
+>Mergear branch cruzado, yo mergear lo de Vert
+	>mergear Contact Form
+	>pushear Front-end Branch
+>Footer en el layout
+>Abrir pull request github, y approver Vert
+> Mañana presupuesto restaurant
+	>Hacer pedidos a travez de un catalohgo 
+	y le deja un mensaje al cliente por whastapp
+>Hacer andar garamond para todas las fonts
+>Revisar tamaños de las tipografias y sus breakpoints
+>Setear storage para imagenes estaticas
+>Capital letters in every text
+>?
+> profit
+
+> logo completo en el navbar 
+>  diseniar y cambiar todos los logos 
+
+
+> borrar todo el contendio de news x
+>contact form x
+	> phone	 *no llega al mail
+	
+
+> pdf  upload al news
+
+> whatsapp floating button
+> revisar el disenio del portfolio y cambiar imagenes
+
+> textos en espaniol para todas las secciones
+
+> fix and finish Services page
+
+> typo italic en Design page
+
+> Nav bar fix

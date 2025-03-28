@@ -1,0 +1,14 @@
+Ir al medico por
+	IR A GUARDIA PRIMERO!
+	
+	>dermatologo
+		>lunares hpv
+		>pelo
+		>ojo
+	>oncologo
+		>lunares hpv
+	>dentista
+		>checkeo
+		>muelas de juicio
+	>alergias
+	>clinico

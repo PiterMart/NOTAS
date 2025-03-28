@@ -1,0 +1,53 @@
+>animar titulos de las secciones
+>crear una intro
+>assets para ui:
+	>numeros
+	>circulo
+	>linea
+>render 3d?
+
+> Corregir modulos x
+	> revisar encuadresx
+	> agregar tomas en camara lenta y demas x
+	> corregir audios x
+> Exportar modulos x
+> Corregir transiciones [titulos]
+> Mejorar motion graphics
+>
+MODULO 1 x 
+MODULO 2 x 
+MODULO 3 x 
+MODULO 4 X 
+
+EXPORTS EN ALTA
+
+>MODULO 1 INTRO FRONT HEADLOCK
+	>INTRODUCCION 
+	>PUNTOS DE ATAQUE 
+	>DIRECCIONES DE ATAQUE 
+	
+>MODULO 2 ESTRANGULACIONES
+	>ATAQUES EN DILEMA 
+	>CONCEPTOS DE GUILLOTINA 
+	>ATAQUES DE GUILLOTINA POWER GUILLOTINE 
+	>ATAQUES DE GUILLOTINA HIGH ELBOW 
+	>ATAQUES DE GUILLOTINA T-REX 
+	>CODO ABIERTO ANACONDA 
+	>PLAN DE ENTRENAMIENTO 
+
+>MODULO 3 TOMA DE ESPALDA
+	>DILEMA POSICIONAL 
+	>TOP SPIN 
+	>MOVIMIENTOS DE LAS PIERNAS 
+	>RODILLA EN PANZA 
+	>ANKLE PICK 
+	>DRILLS 
+	
+>MODULO 4 LLEGAR A LA POSICION
+	>INTRODUCCION 
+	>LUCHA DE AGARRES  
+	>DILEMA OFENSIVO 
+	>2-1 AMERICANA 
+	>2-1 SWING 
+	>2-1 UCHIMATA 
+	> O/UNDERHOOK UCHIMATA 
