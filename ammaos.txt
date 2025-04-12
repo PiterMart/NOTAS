@@ -2,3 +2,14 @@ AMA.OS
 loads.
 explanation  fantastic- code encrypted 
 	>enter code to know the truth behind AMA
+	
+	
+>identify yourself (login)
+	>name
+	>birthdate
+	>bloodtype
+	>email
+	>
+
+
+curated platform
